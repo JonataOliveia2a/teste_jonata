@@ -1,0 +1,6 @@
+C:\Users\jonata.oliveira\source\repos\AppParaTestarOUsoDoGit\AppParaTestarOUsoDoGit\bin\Debug\AppParaTestarOUsoDoGit.exe.config
+C:\Users\jonata.oliveira\source\repos\AppParaTestarOUsoDoGit\AppParaTestarOUsoDoGit\bin\Debug\AppParaTestarOUsoDoGit.exe
+C:\Users\jonata.oliveira\source\repos\AppParaTestarOUsoDoGit\AppParaTestarOUsoDoGit\bin\Debug\AppParaTestarOUsoDoGit.pdb
+C:\Users\jonata.oliveira\source\repos\AppParaTestarOUsoDoGit\AppParaTestarOUsoDoGit\obj\Debug\AppParaTestarOUsoDoGit.csprojAssemblyReference.cache
+C:\Users\jonata.oliveira\source\repos\AppParaTestarOUsoDoGit\AppParaTestarOUsoDoGit\obj\Debug\AppParaTestarOUsoDoGit.exe
+C:\Users\jonata.oliveira\source\repos\AppParaTestarOUsoDoGit\AppParaTestarOUsoDoGit\obj\Debug\AppParaTestarOUsoDoGit.pdb
