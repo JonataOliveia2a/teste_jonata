@@ -10,7 +10,7 @@ namespace AppParaTestarOUsoDoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Teste");
+            Console.WriteLine("Olá Mundo, boa tarde!");
             Console.ReadKey();
         }
     }
